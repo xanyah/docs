@@ -1,3 +1,7 @@
+---
+slug: /
+---
+
 # Introduction
 
 Xanyah is an open-source Point of Sale software, with basic features.
